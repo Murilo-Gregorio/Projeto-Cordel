@@ -10,8 +10,6 @@
 
 :root {
   --fonte1: Verdana, Geneva, Tahoma, sans-serif;
-  --fonte2: 'Passion One', cursive;
-  --fonte3: 'Sriacha', cursive;
 }
 
 body {
@@ -32,7 +30,7 @@ header h1 {
   color: white;
   font-size: 10vh;
   font-variant: small-caps;
-  font-family: var(--fonte2);
+  font-family: serif;
 }
 
 header p{
@@ -53,7 +51,7 @@ section {
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
-    font-family: var(--fonte3);
+    font-family: serif;
     font-size: 3.5vw;
 }
 
